@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/FantoX/Atlas-MD">
+<a href="https://github.com/AzapRay/Atlas-MD">
     <img src="https://i.imgur.com/MClOeqe.jpeg">
   </a>
 
